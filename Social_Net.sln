@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Social_Net", "Social_Net.vcxproj", "{30535774-ECC2-4F97-9DAC-D4B5044EA454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30535774-ECC2-4F97-9DAC-D4B5044EA454}.Debug|x64.ActiveCfg = Debug|x64
+		{30535774-ECC2-4F97-9DAC-D4B5044EA454}.Debug|x64.Build.0 = Debug|x64
+		{30535774-ECC2-4F97-9DAC-D4B5044EA454}.Debug|x86.ActiveCfg = Debug|Win32
+		{30535774-ECC2-4F97-9DAC-D4B5044EA454}.Debug|x86.Build.0 = Debug|Win32
+		{30535774-ECC2-4F97-9DAC-D4B5044EA454}.Release|x64.ActiveCfg = Release|x64
+		{30535774-ECC2-4F97-9DAC-D4B5044EA454}.Release|x64.Build.0 = Release|x64
+		{30535774-ECC2-4F97-9DAC-D4B5044EA454}.Release|x86.ActiveCfg = Release|Win32
+		{30535774-ECC2-4F97-9DAC-D4B5044EA454}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF3B5A6D-C1EC-40C8-9CF6-3E8421E570C3}
+	EndGlobalSection
+EndGlobal
